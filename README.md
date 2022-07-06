@@ -8,7 +8,7 @@ attributes of approximately 18,3500 Ford GoBike Users. The attributes included t
 User Type, Gender, User Birth Date, as well as additional measurements such as 
 Station location,Trip Start Time - End Time. Some Columns were removed from the
 analysis due to no need for them, age of User is added, and Trip Duration 
-converted from seconds to Minutesfor more readability
+converted from seconds to Minutesfor more readability. the data download from https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
 
 ## Summary of Findings
 
